@@ -1,0 +1,28 @@
+*{
+    padding:0px;
+    margin:0px;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+    border-collapse: collapse;
+    color: black;
+}
+
+.img_item_bg{
+
+    background-image: url("./images/web_1_main.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+}
+
+
+
+
+
+/* html {
+    background: url(./images/web_1_main.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    } */
